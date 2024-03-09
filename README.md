@@ -4,4 +4,6 @@ dataset/validator.cpp检测图的合法性
 
 plant/gen.cpp生成植入答案的图
 
-graph1~4太大了
+dataset/intro.txt 写了数据来源
+
+dataset/graph1~4太大了 传不上去
