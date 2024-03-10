@@ -1,6 +1,6 @@
 dataset/turn.cpp将一张图加上颜色和比例要求
 
-dataset/validator.cpp检测图的合法性
+dataset/validator.cpp检测图的合法性 (是否有重边，自环，点编号是否超出n)
 
 plant/gen.cpp生成植入答案的图
 
